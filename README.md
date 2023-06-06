@@ -13,6 +13,9 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q891922" title="bombilla">
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Yerba_mate.JPG" label="Gauchos drinking mate" 
+       description="Painting by Candido Lopez" 
+       license="public domain">
 
 ## History 
 
