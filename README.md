@@ -13,6 +13,7 @@ Ilex paraguariensis is an evergreen shrub or tree native to the subtropical fore
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q117085" title="ilex">
+<param ve-entity eid="Q891922" title="bombilla">
 
 ## History 
 
