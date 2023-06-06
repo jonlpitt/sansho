@@ -17,7 +17,9 @@
        description="Painting by Candido Lopez" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Yerba_mate.JPG">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Yerba_mate.JPG" 
+       label="Matte Powder"
+       liscense="public domain">
 
 ## History 
 
